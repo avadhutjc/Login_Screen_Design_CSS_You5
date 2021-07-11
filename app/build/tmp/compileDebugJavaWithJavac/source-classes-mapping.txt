@@ -1,0 +1,4 @@
+com/masai/a428jun_login_screen_design_css_you5/MainActivity.java
+ com.masai.a428jun_login_screen_design_css_you5.MainActivity
+com/masai/a428jun_login_screen_design_css_you5/BuildConfig.java
+ com.masai.a428jun_login_screen_design_css_you5.BuildConfig
